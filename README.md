@@ -1,2 +1,4 @@
 # Assignment: Create a Github Repo
-This repository is for my first GIST604B assignment "Create a GitHub Repo."
+Hello world! This repository is for my first GIST604B assignment "Create a GitHub Repo."
+# About Me: Your Friendly Neighborhood Goth
+My name is Andrea Rodriguez Flores, which is only 3 of my 4 names (can't let the fae keep all of them). I was born and raised in Puerto Rico, but my family moved to the states when I was 15 in search of a better life and greater opportunities. Since then, I've gotten a bachelor's degree in Biology from the University of North Carolina at Greensboro, published a bit of research on bats, and moved to Tucson afterwards to live with my now husband, whom I met online on our favorite game— League of Legends. I still play league, but now I'm working towards my Master's in GIS right here in Tucson. I'm a big Trekie and a D&D nerd, but my other interests are deeply rooted in history, fashion and music. I've worn exclusively black since I was 13 and I loathe to leave my home without eyeliner. I'm looking forward to working with all of you!
